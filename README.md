@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on REACT,NODE<POSTGRES or any MERN STACK based project with both rdbms and document based data managment system like redis and postgres also knowledge in mysql and also done work of myself on database designing and data analyzinf
 - 📫 How to reach me divineCIpherCells@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divine-Cipher-Cells&show_icons=true&theme=radical)
 
